@@ -42,5 +42,5 @@ What it does
 
 Architecture
 
-See `docs/ARCHITECTURE.md` for a simple diagram and data flow.
+See `ARCHITECTURE.md` for a simple diagram and data flow.
 
